@@ -12,66 +12,62 @@ http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
     <url>
       <loc>http://dayasagartrustnashik.com/</loc>
       <image:image>
-        <image:loc>http://dayasagartrustnashik.com/assets/img/logo.png</image:loc>
+        <image:loc>http://dayasagartrustnashik.com/img/portfolio/logo.png</image:loc>
       </image:image>
 
       <image:image>
-        <image:loc>http://dayasagartrustnashik.com/assets/photos/1.jpg</image:loc>
+        <image:loc>http://dayasagartrustnashik.com/img/portfolio/1.jpg</image:loc>
       </image:image>
       <image:image>
-        <image:loc>http://dayasagartrustnashik.com/assets/photos/2.jpg</image:loc>
+        <image:loc>http://dayasagartrustnashik.com/img/portfolio/2.jpg</image:loc>
       </image:image>
       <image:image>
-        <image:loc> http://dayasagartrustnashik.com/assets/photos/3.jpg </image:loc>
+        <image:loc> http://dayasagartrustnashik.com/img/portfolio/3.jpg </image:loc>
       </image:image>
       <image:image>
-        <image:loc> http://dayasagartrustnashik.com/assets/photos/5.jpg </image:loc>
+        <image:loc> http://dayasagartrustnashik.com/img/portfolio/5.jpg </image:loc>
       </image:image>
       <image:image>
-        <image:loc> http://dayasagartrustnashik.com/assets/photos/6.jpg </image:loc>
+        <image:loc> http://dayasagartrustnashik.com/img/portfolio/6.jpg </image:loc>
       </image:image>
       <image:image>
-        <image:loc> http://dayasagartrustnashik.com/assets/photos/7.jpg </image:loc>
+        <image:loc> http://dayasagartrustnashik.com/img/portfolio/7.jpg </image:loc>
       </image:image>
       <image:image>
-        <image:loc> http://dayasagartrustnashik.com/assets/photos/8.jpg </image:loc>
+        <image:loc> http://dayasagartrustnashik.com/img/portfolio/8.jpg </image:loc>
       </image:image>
       <image:image>
-        <image:loc> http://dayasagartrustnashik.com/assets/photos/9.jpg </image:loc>
+        <image:loc> http://dayasagartrustnashik.com/img/portfolio/9.jpg </image:loc>
       </image:image>
       <image:image>
-        <image:loc> http://dayasagartrustnashik.com/assets/photos/10.jpg </image:loc>
+        <image:loc> http://dayasagartrustnashik.com/img/portfolio/10.jpg </image:loc>
       </image:image>
       <image:image>
-        <image:loc> http://dayasagartrustnashik.com/assets/photos/11.jpg </image:loc>
+        <image:loc> http://dayasagartrustnashik.com/img/portfolio/11.jpg </image:loc>
       </image:image>
       <image:image>
-        <image:loc> http://dayasagartrustnashik.com/assets/photos/12.jpg </image:loc>
+        <image:loc> http://dayasagartrustnashik.com/img/portfolio/12.jpg </image:loc>
       </image:image>
       <image:image>
-        <image:loc> http://dayasagartrustnashik.com/assets/photos/13.jpg </image:loc>
+        <image:loc> http://dayasagartrustnashik.com/img/portfolio/13.jpg </image:loc>
       </image:image>
       <image:image>
-        <image:loc> http://dayasagartrustnashik.com/assets/photos/14.jpg </image:loc>
+        <image:loc> http://dayasagartrustnashik.com/img/portfolio/14.jpg </image:loc>
       </image:image>
       <image:image>
-        <image:loc> http://dayasagartrustnashik.com/assets/photos/21.jpg </image:loc>
+        <image:loc> http://dayasagartrustnashik.com/img/portfolio/21.jpg </image:loc>
       </image:image>
       <image:image>
-        <image:loc> http://dayasagartrustnashik.com/assets/photos/22.jpg </image:loc>
+        <image:loc> http://dayasagartrustnashik.com/img/portfolio/22.jpg </image:loc>
       </image:image>
       <image:image>
-        <image:loc> http://dayasagartrustnashik.com/assets/photos/23.jpg </image:loc>
+        <image:loc> http://dayasagartrustnashik.com/img/portfolio/23.jpg </image:loc>
       </image:image>
       <image:image>
-        <image:loc> http://dayasagartrustnashik.com/assets/photos/24.jpg </image:loc>
+        <image:loc> http://dayasagartrustnashik.com/img/portfolio/24.jpg </image:loc>
       </image:image>
-      <image:image>
-        <image:loc> http://dayasagartrustnashik.com/assets/img/MyF.png </image:loc>
-      </image:image>
-      <image:image>
-        <image:loc> http://dayasagartrustnashik.com/assets/img/MyG.png </image:loc>
-      </image:image>
+       
+       
       <image:image>
         <image:loc> https://fbcdn-profile-a.akamaihd.net/hprofile-ak-prn2/1231113_1381026495462424_2133528604_s.jpg </image:loc>
       </image:image>

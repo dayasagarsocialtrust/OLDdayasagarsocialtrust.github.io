@@ -1,5 +1,0 @@
-User-agent: *
-Disallow:
-
-sitemap: http://www.dayasagartrustnashik.com/sitemap.xml
-sitemap: http://www.dayasagartrustnashik.com/sitemap-image.xml
